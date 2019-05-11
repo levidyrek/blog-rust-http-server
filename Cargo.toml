@@ -1,0 +1,9 @@
+[package]
+name = "rust_http_server"
+version = "0.1.0"
+authors = ["Levi Payne <levi.dyrek@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bufstream = "0.1.4"
+chrono = "0.4"
